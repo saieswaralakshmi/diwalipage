@@ -1,48 +1,6 @@
-.para{color:red; text-align: center;background-color: white;}
-.button{background-color:lightgreen;height:20px;width:50px;color:red;border-radius:7px;border:2px solid black;}
-.background{
-	background-image: url('https://img.freepik.com/free-photo/beautiful-shot-high-white-hilltops-mountains-covered-fog_181624-399.jpg?size=626&ext=jpg&ga=GA1.2.1100098707.1695896007&semt=ais');
-background-repeat:no-repeat;background-size: cover;
-height:100vh;}
-
-.background{
-	background-image: url('/home/rguktongole/Desktop/1665146651675.jpg');
-background-repeat:no-repeat;background-size: cover;background-attachment: fixed;
-height:210vh;}
-.favourite-place-heading-container{padding: 10px;}
-.heading{color:white;font-family: roboto;font-size:30px;}
-.card1{padding: 16px;background-color: white;border-radius: 10px;margin:15px;}
-.c1{color:dodgerblue;text-align: left;font-weight:bold;font-family:roboto;font-size:23px;}
-.c2{font-size:13px;font-family: roboto;color:#6c6b70;}
-.image{height:90;width:70;}
-
-.detailed-card{background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');background-size:cover;background-repeat: no-repeat;height:200vh;background-attachment: fixed;padding:20px}
-.h1{color:white;padding:30px;font-size: 20px;font-family: cursive;}
-.detail-card{font-weight:bold;font-size:30px;font-family:cursive;padding:10px;padding-bottom: 5px;}
-.p{font-size: 15px;padding-left:15px;padding-bottom: 15px;padding-right: 15px;padding-top: 5px;}
-.c1{background-color:white;}
-
-.detailed-card{background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');background-size:cover;background-repeat: no-repeat;height:200vh;background-attachment: fixed;padding:20px}
-.h1{color:white;padding:30px;font-size: 20px;font-family: cursive;}
-.detail-card{font-weight:bold;font-size:30px;font-family:cursive;padding:10px;padding-bottom: 5px;}
-.p{font-size: 15px;padding-left:15px;padding-bottom: 15px;padding-right: 15px;padding-top: 5px;}
-.c1{background-color:white;}
-
-.detailed-card{background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');background-size:cover;background-repeat: no-repeat;height:200vh;background-attachment: fixed;padding:20px}
-.h1{color:white;padding:30px;font-size: 20px;font-family: cursive;}
-.detail-card{font-weight:bold;font-size:30px;font-family:cursive;padding:10px;padding-bottom: 5px;}
-.p{font-size: 15px;padding-left:15px;padding-bottom: 15px;padding-right: 15px;padding-top: 5px;}
-.c1{background-color:white;}
-
-.detailed-card{background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');background-size:cover;background-repeat: no-repeat;height:200vh;background-attachment: fixed;padding:20px}
-.h1{color:white;padding:30px;font-size: 20px;font-family: cursive;}
-.detail-card{font-weight:bold;font-size:30px;font-family:cursive;padding:10px;padding-bottom: 5px;}
-.p{font-size: 15px;padding-left:15px;padding-bottom: 15px;padding-right: 15px;padding-top: 5px;}
-.c1{background-color:white;}
-
-
-.detailed-card{background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');background-size:cover;background-repeat: no-repeat;height:200vh;background-attachment: fixed;padding:20px}
-.h1{color:white;padding:30px;font-size: 20px;font-family: cursive;}
-.detail-card{font-weight:bold;font-size:30px;font-family:cursive;padding:10px;padding-bottom: 5px;}
-.p{font-size: 15px;padding-left:15px;padding-bottom: 15px;padding-right: 15px;padding-top: 5px;}
-.c1{background-color:white;}
+.background{background-image:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png');height:30vh;background-repeat:no-repeat;background-size: cover;padding:20px;}
+.h1{color:white;font-family: cursive;font-size: 20;font-weight:bold;}
+.bottom{padding:20px;background-color: #e6f6ff;text-align:center;}
+.card-container{background-color: white;text-align:center;padding:10px;height:160px;width:140px;margin:10px;border-radius:10px;}
+.card-head{font-size:20px;font-weight: bold;}
+.button{border-radius: 5px;background-color:dodgerblue;padding:10px;}
